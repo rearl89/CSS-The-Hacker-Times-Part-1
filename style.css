@@ -58,6 +58,31 @@ h5 {
     display: block;
 }
 
+h4 {
+    font-family: Roboto Slab;
+    font-size: 1.5em;
+}
+
 main img {
     width: 100%;
 }
+
+.more-articles {
+    border-top: 1px solid lightgrey;
+    display: flex;
+}
+
+section {
+    width: 50%;
+    padding: 1.4em;
+}
+
+section img {
+    width: 100%;
+}
+
+p{
+    font-size: 1.3em;
+    font-weight: 1;
+}
+
